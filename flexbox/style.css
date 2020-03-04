@@ -72,3 +72,31 @@ body{
     display: flex;
     height: 150px;
 }
+.element_div4{
+    margin-top: 15px;
+    /*margin-bottom: 5px;*/
+    margin-left: 30px;
+    height: 120px;
+    width: 250px;
+    background-color: darksalmon;
+}
+.element_div4_2{
+    display: flex;
+    margin-top: 15px;
+    /*margin-bottom: 5px;*/
+    margin-left: 200px;
+    height: 120px;
+    width: 300px;
+   /* background-color: yellow;*/
+    flex-wrap: wrap;
+    padding-left: 20px;
+    }
+.element_div4_2_enfant{
+    /*margin-top: 15px;*/
+    /*margin-bottom: 5px;*/
+    /*margin-left: 30px;*/
+    height: 28px;
+    width: 80px;
+    margin: 5px;
+    background-color: darksalmon;
+}
